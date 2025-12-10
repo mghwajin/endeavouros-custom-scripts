@@ -4,7 +4,7 @@ This repo is a collection of basic scripts I've created, either as general tools
 The collection will grow slowly as I slowly trundle through my novice user experience.
 
 Current contents:
-- [xfce4-screenshooter-autosave](scripts/xfce4-screenshooter-autosave.sh) - Automatically save a fullscreen screenshot with the date appended to the filename. Bypasses the window waiting for filename input from user. Useful keyboard shortcut.
+- [xfce4-screenshooter-autosave](scripts/xfce4-screenshooter-autosave) - Automatically save a fullscreen screenshot with the date appended to the filename. Bypasses the window waiting for filename input from user. Useful keyboard shortcut.
 
 
 > [!NOTE]
