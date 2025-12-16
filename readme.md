@@ -8,7 +8,7 @@ Current contents:
 
 
 > [!NOTE]
-> For fellow beginners, these scripts may require you to edit them slightly to match your setup. Example: If `/home/some-user` is referenced in a command, it should be edited to match your /home/user directory.
+> For fellow beginners, these scripts may require you to edit them slightly to match your setup. Example: If `/home/some-user` is referenced in a command, it should be edited to match your `/home/user` directory.
 >
 > **Make sure to set the file as executable!**
 
